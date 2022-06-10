@@ -14,7 +14,7 @@ Upload the gerber to a PCB fab (JLCPCB, PCBWay, OSHPark) with a board thickness 
 
 I have not personally tested these as they were made for a member of the Game Boy community, so please use at your own risk.
 
-If you identify any issues or have fixes, please contact me on discord: skimzor#5078
+If you identify any issues or have fixes, please contact me on discord: skimzor #5078
 
 # Credit
 
