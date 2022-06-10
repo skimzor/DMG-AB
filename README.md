@@ -1,5 +1,4 @@
-# DMG-AB
-Game Boy DMG Audio Board
+# DMG Audio Board
 
 "Reverse engineered" an original DMG Audio Board and recreated it in KiCad
 
