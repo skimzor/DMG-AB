@@ -12,4 +12,4 @@ I have not personally tested these as they were made for a member of the Game Bo
 
 # Credit
 
-- b_2_3_n for providing the OEM DMG Audio Boards to measure/trace.
+b_2_3_n for providing the OEM DMG Audio Boards to measure/trace.
