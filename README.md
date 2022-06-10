@@ -8,4 +8,8 @@ Upload the gerber to a PCB fab (JLCPCB, PCBWay, OSHPark) with a board thickness 
 
 # Disclaimer
 
-I have not personally tested these as they were made for a member of the Game Boy community so please use at your own risk.
+I have not personally tested these as they were made for a member of the Game Boy community, so please use at your own risk.
+
+# Credit
+
+- b_2_3_n for providing the OEM DMG Audio Boards to measure/trace.
