@@ -12,7 +12,7 @@ Upload the gerber to a PCB fab (JLCPCB, PCBWay, OSHPark) with a board thickness 
 
 # Disclaimer
 
-I have not personally tested this PCB (lul DMG) as it was made for a member of the Game Boy community, so please use at your own risk.
+I have not personally tested this PCB as it was made for a member of the Game Boy community, so please use at your own risk.
 
 If you identify any issues or have fixes, please contact me on discord: *skimzor#5078*
 
