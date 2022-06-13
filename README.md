@@ -20,6 +20,7 @@ If you identify any issues or have fixes, please contact me on discord: *skimzor
 
 - b_2_3_n for providing the OEM DMG Audio Boards to measure/trace.
 
+# License
 
  [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
  
